@@ -1,0 +1,57 @@
+AI
+Symbolic AI
+Machine Learning
+probablistic modeling
+meaningful transformation
+representation
+kernel methods
+-SVM
+-Decision Trees
+-Random Forest
+GBM (Gradient boosted machines)
+-XGBoost, LightGBM
+feature engineering
+learning
+shallow learning
+Deep Learning
+neural networks
+depth of model
+information distillation
+input data 
+labels
+ground truth
+predicted labels
+weights
+parameters
+forward propagation
+loss function
+objective function / cost function
+feedback signal
+optimizer
+backpropogation
+training loop
+2 essential freatues of NN:
+- incremental, layer-by-layer way in which increasingly complex representations are developed,
+- these intermediate incremental representations are learned jointly
+
+Scikit-Learn
+Kaggle
+Tensorflow
+Keras
+HuggingFace
+LLM
+GPU (NVidia GTX / RTX series)
+
+DL era trigger:
+-better compute capability
+-Big data (data is Fuel for DL)
+-Algorithms advances
+>better activation functions
+>better weight initialization schemes
+>better optimization schemes
+
+Reason DL expected to sustain winter
+-Simplicity
+-scalability
+-verstality and reusability
+

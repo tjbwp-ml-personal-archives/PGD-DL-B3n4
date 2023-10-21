@@ -1,0 +1,22 @@
+1. We shall start with a methodical way and the best approach is to follow a defined syllabi, covering all aspects of current deep learning.
+2. The Book we shall follow is same as it used to be previously, 
+"Deep Learning with Python by Francois Cholletbut", we will be using the latest Ed2.
+I am attaching the book herewith.
+3. There are certain topics which are in practice in the industry, we shall cover with practical code understanding; In addition to examples in the Book, we shall find time to cover additional topics, like;
+a. Large Language Models (we will explore Open Source models)
+b. Langchains / llama_index (used with LLMs for chatbot development)
+c. Image Classification
+d. Image Segmentation
+e. Video Actions using media pipe.
+f. Video Action Classification (we shall make simple human action classifier)
+g. Encoders-Decoders (many applications, like image denoising, resoution enhancing, GAN etc.)
+h. Text Summarization, Text Classification, etc.)
+i. Audio processing and speech notes summarization.
+.......
+The only constraint I fear is the time, as 16 classes are too less a time. Neverthless, I will tend to skip lengthy academic-specific jargon text and concentrate more on understanding the logic and coding.
+
+There is a term called 'Democratization' used for AI, that means 'Making AI available for all' and that is due to the fact that most of the AI code is available as open source. Therefore following the stratedgy, while the basic coding and fundamental architecture of various frameworks be understood by all, it is not necessary to reinvet the wheel, as AI is evolving very fast. The adaptation of of pre-trained models and pip packages is proof of this wide-spread approach throughout the AI / ML industry.
+
+The most important however is that you are able to understand, interpret and modify any existing source code, and then achieve the results by testing your approach. 
+   
+WILL be using MS Visual Code as my development envoironment, while underneath shall use anaconda for python.
