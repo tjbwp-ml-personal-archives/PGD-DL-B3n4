@@ -32,6 +32,10 @@ if uploaded_file is not None:
     # Make prediction
     prediction = model.predict(img_array)
     
-    d = {0:'Cat', 1:'Dog'}
-    st.write(d[np.argmax(prediction)])
+    if prediction<0.5: 
+        op = 'Cat'
+    else:
+        op = 'Dog'
+    
+    st.write(op)
     
